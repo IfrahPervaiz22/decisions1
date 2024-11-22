@@ -1,3 +1,5 @@
+#python
+#asking years of services and qualification form user by usin decisions
 qual=(input("Write your Qualification:")).lower()
 yos=eval(input("Enter your years of service:")) 
 if qual=="masters" and yos>=10:
